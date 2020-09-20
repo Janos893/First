@@ -1,2 +1,2 @@
 # First
-It's a new password generator for android
+It's a password generator for android
